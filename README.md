@@ -1,4 +1,4 @@
-#GitHub Commands#
+<h1> GitHub Commands </h1>
 git init
 git add .
 git commit -am "first commit"
